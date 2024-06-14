@@ -1,0 +1,26 @@
+Initialize a git repo: git init
+
+Clone a repo from GitHub: git clone <repo_url>
+
+Create a new branch and checkout: git checkout -b <branch_name>
+
+Merge branch_test to master:
+git checkout master
+git merge branch_test
+
+Stash new code and pop stash:
+git stash
+git checkout branch_learn_stash
+git stash pop
+
+In IntelliJ: Use the VCS > Git > Stash Changes menu to stash, and then pop from the stash.
+
+PR is based on Branch: A PR (Pull Request) is a request to merge changes from one branch to another.
+
+Maven's role: Maven is used for project management and build automation.
+
+Maven lifecycle: Validate, compile, test, package, verify, install, deploy.
+
+Difference between package and install: package creates the JAR/WAR, install installs the package into the local repository.
+
+Maven plugins: Examples include Surefire (for testing), Compiler (for compiling), and Shade (for creating uber-JARs)...
