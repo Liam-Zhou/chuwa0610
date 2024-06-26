@@ -5,7 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be80a07f-98d5-4ff8-af2d-72c96a8ddba3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Coding/hw5/src/main/java/com/chuwa/learn/Q25a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/hw5/src/main/java/com/chuwa/learn/Q25b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/hw5/src/main/java/com/chuwa/learn/Q25c.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/Daemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/Daemon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/God.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/God.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/InterruptTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/InterruptTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/JoinTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/JoinTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/MyThreadWithIsInterrupted.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/MyThreadWithIsInterrupted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/People.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/SleepForever.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/SleepForever.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/SleepTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/SleepTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/WhileTrue.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/basicThread/WhileTrue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/create/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/create/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/create/MyCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/create/MyCallable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/create/MyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/create/MyRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/create/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/create/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/deadLock/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/deadLock/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/deadLock/DeadLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/deadLock/DeadLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/AddStudentThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/AddStudentThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/AddTeacherThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/AddTeacherThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/AddThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/AddThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/AddThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/AddThread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/Counter1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/Counter1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/DecStudentThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/DecStudentThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/DecTeacherThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/DecTeacherThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/DecThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/DecThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/DecThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/DecThread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/SynchronizedThreads.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/SynchronizedThreads.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/SynchronizedThreadsFailed.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/synchronzed/SynchronizedThreadsFailed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/utilConcurrentLocks/AtomicLearn.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/utilConcurrentLocks/AtomicLearn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/utilConcurrentLocks/ConcurrentCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/utilConcurrentLocks/ConcurrentCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/utilConcurrentLocks/IdGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/utilConcurrentLocks/IdGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/waitNotify/OddEvenPrinter$PrintRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/waitNotify/OddEvenPrinter$PrintRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/waitNotify/OddEvenPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/waitNotify/OddEvenPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/waitNotify/TaskQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/waitNotify/TaskQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/waitNotify/WaitNotify$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/waitNotify/WaitNotify$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/waitNotify/WaitNotify.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/hw5/target/classes/com/chuwa/learn/waitNotify/WaitNotify.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShortQuestions/hw5.md" beforeDir="false" afterPath="$PROJECT_DIR$/ShortQuestions/hw5.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,67 +83,80 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CLient.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericClassTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericMultiArguments.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodReferenceExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OptionalDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.chuwa.learn.MavenProject.Builder.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.chuwa.learn.MavenProject.Observer.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.chuwa.learn.MavenProject.Singleton.Client.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AdditionalMapExerciseTest.learn_ConcurrentHashMap.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AdditionalMapExerciseTest.learn_EnumMap.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AdditionalMapExerciseTest.learn_IdentityHashMap.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AppTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ArrayListExerciseTest.learn_Inserting_And_Retrieving.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ArrayListExerciseTest.learn_Iterator.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ArrayListExerciseTest.learn_Remove_Replacing_Updating.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ArrayListExerciseTest.learn_Sorting.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ArraysExerciseTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ArraysExerciseTest.learn_common_operations.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ArraysExerciseTest.learn_copy_of_array.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ArraysExerciseTest.learn_search_and_sort.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CollectionsExerciseTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CollectionsExerciseTest.learn_common_collections_operations.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CollectionsExerciseTest.learn_thread_safe_ArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CopyOnWriteArrayListExerciseTest.learn_Inserting_And_Retrieving.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CopyOnWriteArrayListExerciseTest.learn_Iterator.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.HashMapExerciseTest.learn_Inserting_And_Retrieving.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.HashMapExerciseTest.learn_Remove_Replacing_Updating.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.HashSetExerciseTest.learn_Inserting_And_Retrieving_Removing.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LambdaLearn.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LambdaLearn.testFinal21.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LinkedHashMapExerciseTest.learn_Inserting_And_Retrieving.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LinkedHashMapExerciseTest.learn_Remove_Replacing_Updating.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LinkedListExerciseTest.learn_Inserting_And_Retrieving.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LinkedListExerciseTest.learn_Remove_Sort.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProductClient.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StreamApiTest.exercise15a.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StreamExercise.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TreeMapExerciseTest.learn_Inserting_And_Retrieving.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TreeMapExerciseTest.learn_Remove_Replacing_Updating.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TreeSetExerciseTest.learn_Inserting_And_Retrieving_Removing.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.collection [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.collection [test].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;#93 on hongqiang__cai/hw3&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/15063/OneDrive/Documents/Chuwa/chuwa0610/Coding/hw4&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CLient.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.ConcurrentCollection.executor": "Run",
+    "Application.Daemon.executor": "Run",
+    "Application.GenericClassTest.executor": "Run",
+    "Application.GenericMethod.executor": "Run",
+    "Application.GenericMultiArguments.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MethodReferenceExample.executor": "Run",
+    "Application.OddEvenPrinter.executor": "Run",
+    "Application.OptionalDemo.executor": "Run",
+    "Application.Q25b.executor": "Run",
+    "Application.WaitNotify.executor": "Run",
+    "Application.com.chuwa.learn.MavenProject.Builder.Client.executor": "Run",
+    "Application.com.chuwa.learn.MavenProject.Observer.Client.executor": "Run",
+    "Application.com.chuwa.learn.MavenProject.Singleton.Client.executor": "Run",
+    "JUnit.AdditionalMapExerciseTest.learn_ConcurrentHashMap.executor": "Run",
+    "JUnit.AdditionalMapExerciseTest.learn_EnumMap.executor": "Run",
+    "JUnit.AdditionalMapExerciseTest.learn_IdentityHashMap.executor": "Run",
+    "JUnit.AppTest.executor": "Run",
+    "JUnit.ArrayListExerciseTest.learn_Inserting_And_Retrieving.executor": "Run",
+    "JUnit.ArrayListExerciseTest.learn_Iterator.executor": "Run",
+    "JUnit.ArrayListExerciseTest.learn_Remove_Replacing_Updating.executor": "Run",
+    "JUnit.ArrayListExerciseTest.learn_Sorting.executor": "Run",
+    "JUnit.ArraysExerciseTest.executor": "Run",
+    "JUnit.ArraysExerciseTest.learn_common_operations.executor": "Run",
+    "JUnit.ArraysExerciseTest.learn_copy_of_array.executor": "Run",
+    "JUnit.ArraysExerciseTest.learn_search_and_sort.executor": "Run",
+    "JUnit.CollectionsExerciseTest.executor": "Run",
+    "JUnit.CollectionsExerciseTest.learn_common_collections_operations.executor": "Run",
+    "JUnit.CollectionsExerciseTest.learn_thread_safe_ArrayList.executor": "Run",
+    "JUnit.CopyOnWriteArrayListExerciseTest.learn_Inserting_And_Retrieving.executor": "Run",
+    "JUnit.CopyOnWriteArrayListExerciseTest.learn_Iterator.executor": "Run",
+    "JUnit.HashMapExerciseTest.learn_Inserting_And_Retrieving.executor": "Run",
+    "JUnit.HashMapExerciseTest.learn_Remove_Replacing_Updating.executor": "Run",
+    "JUnit.HashSetExerciseTest.learn_Inserting_And_Retrieving_Removing.executor": "Run",
+    "JUnit.LambdaLearn.executor": "Run",
+    "JUnit.LambdaLearn.testFinal21.executor": "Run",
+    "JUnit.LinkedHashMapExerciseTest.executor": "Run",
+    "JUnit.LinkedHashMapExerciseTest.learn_Inserting_And_Retrieving.executor": "Run",
+    "JUnit.LinkedHashMapExerciseTest.learn_Remove_Replacing_Updating.executor": "Run",
+    "JUnit.LinkedListExerciseTest.learn_Inserting_And_Retrieving.executor": "Run",
+    "JUnit.LinkedListExerciseTest.learn_Remove_Sort.executor": "Run",
+    "JUnit.OptionalMainMethodTest.executor": "Run",
+    "JUnit.ProductClient.executor": "Run",
+    "JUnit.StreamApiIntermediateOperation.executor": "Run",
+    "JUnit.StreamApiTest.exercise15a.executor": "Run",
+    "JUnit.StreamExercise.executor": "Run",
+    "JUnit.TreeMapExerciseTest.learn_Inserting_And_Retrieving.executor": "Run",
+    "JUnit.TreeMapExerciseTest.learn_Remove_Replacing_Updating.executor": "Run",
+    "JUnit.TreeSetExerciseTest.learn_Inserting_And_Retrieving_Removing.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.collection [clean].executor": "Run",
+    "Maven.collection [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.InterruptTest.testInterruptSleep.executor": "Run",
+    "TestNG.InterruptTest.testInterruptWhileTrue.executor": "Run",
+    "TestNG.InterruptTest.testIsInterrupted.executor": "Run",
+    "git-widget-placeholder": "hongqiang__cai/hw5",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/15063/OneDrive/Documents/Chuwa/chuwa0610/Coding/hw5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.chuwa.learn.MavenProject.Observer" />
@@ -116,13 +169,13 @@
       <recent name="C:\Users\15063\OneDrive\Documents\Chuwa\chuwa0610\Coding\coding1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StreamApiTest.exercise15a">
-    <configuration name="MethodReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chuwa.learn.Java8.MethodReference.MethodReferenceExample" />
-      <module name="hw4" />
+  <component name="RunManager" selected="Application.Q25b">
+    <configuration name="ConcurrentCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chuwa.learn.utilConcurrentLocks.ConcurrentCollection" />
+      <module name="hw5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chuwa.learn.Java8.MethodReference.*" />
+          <option name="PATTERN" value="com.chuwa.learn.utilConcurrentLocks.ReadWriteLockLearn" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chuwa.learn.Java8.Optional.OptionalDemo" />
-      <module name="hw4" />
+    <configuration name="OddEvenPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chuwa.learn.waitNotify.OddEvenPrinter" />
+      <module name="hw5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chuwa.learn.Java8.Optional.*" />
+          <option name="PATTERN" value="com.chuwa.learn.waitNotify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,59 +196,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hw4" />
+    <configuration name="Q25b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chuwa.learn.Q25b" />
+      <module name="hw5" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.chuwa.learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.chuwa.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.chuwa.learn.ProductClient" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamApiTest.exercise15a" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hw4" />
+    <configuration name="WaitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chuwa.learn.waitNotify.WaitNotify" />
+      <module name="hw5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chuwa.learn.*" />
+          <option name="PATTERN" value="com.chuwa.learn.waitNotify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.chuwa.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.chuwa.learn.StreamApiTest" />
-      <option name="METHOD_NAME" value="exercise15a" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamExercise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hw4" />
+    <configuration name="InterruptTest.testIsInterrupted" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hw5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chuwa.learn.*" />
+          <option name="PATTERN" value="com.chuwa.learn.basicThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.chuwa.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.chuwa.learn.StreamExercise" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.chuwa.learn.basicThread" />
+      <option name="MAIN_CLASS_NAME" value="com.chuwa.learn.basicThread.InterruptTest" />
+      <option name="METHOD_NAME" value="testIsInterrupted" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StreamApiTest.exercise15a" />
-        <item itemvalue="JUnit.StreamExercise" />
-        <item itemvalue="JUnit.ProductClient" />
-        <item itemvalue="Application.OptionalDemo" />
-        <item itemvalue="Application.MethodReferenceExample" />
+        <item itemvalue="Application.Q25b" />
+        <item itemvalue="Application.OddEvenPrinter" />
+        <item itemvalue="Application.WaitNotify" />
+        <item itemvalue="Application.ConcurrentCollection" />
+        <item itemvalue="TestNG.InterruptTest.testIsInterrupted" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +279,8 @@
       <workItem from="1719206904961" duration="1310000" />
       <workItem from="1719208357624" duration="347000" />
       <workItem from="1719208711215" duration="12000" />
+      <workItem from="1719301537456" duration="210000" />
+      <workItem from="1719301817034" duration="22030000" />
     </task>
     <servers />
   </component>

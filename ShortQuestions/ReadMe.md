@@ -1,3 +1,87 @@
+
+# Short Questoins
+## Homeworks
+### HW1
+## SandBox Area
+### Styling text
+Hello world\
+**Hello world**\
+*Hello world*\
+~~Hello world~~\
+**He_llo wor_ld**\
+***Hello world***\
+He<sub>llo wor</sub>ld**\
+He<sup>llo wor</sup>ld**
+### Quoting text
+Hello world\
+>Hello world
+### Quoting code
+```
+    public int[] twoSum(int[] nums, int target) {
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i = 0; i < nums.length; i++){
+
+            if(map.get(target-nums[i]) != null){
+                return new int[] {i,map.get(target-nums[i])};
+            }
+
+            map.put(nums[i],i);
+        }
+
+        return null;
+    }
+```
+### Links
+This is [GitHub](https://pages.github.com/).
+### Section Link
+This is [HW1](HW1.md)
+### Images
+![RandomImg](https://farm8.staticflickr.com/7377/9359257263_81b080a039_z_d.jpg)
+### Lists
+- a list
+* a list 
++ a list 
+1. list1
+2. list2
+3. list3
+4. nest
+	- 1 level
+		-2 level
+### Task Lists
+- [ ] not done
+- [x] done
+### Mentioning
+@github/support What do you think about these updates?
+### Susing emojis
+:smiley::blush::metal:
+
+:smiley::blush::metal:
+### Footnotes
+1+1=?[^1]\
+2+2=?[^2]
+[^1]: 2
+[^2]: 4
+### Alerts
+> [!NOTE]
+> Hello world
+
+> [!TIP]
+> Hello world
+
+> [!IMPORTANT]
+> Hello world
+
+> [!WARNING]
+> Hello world
+
+> [!CAUTION]
+> Hello world
+
+### Hidden content
+<!-- This content will not appear in the rendered Markdown -->
+### Ignore format
+What is \*a-b-b-a\*  
+=======
 ## Practice collection
 See /Coding/hw3/collections/src/test/java/com/chuwa/learn/
 ## What is the checked exception and unchecked exception in Java, could you give one example?
@@ -93,21 +177,21 @@ public class Main {
 ## What is optional? why do you use it? write an optional example.
 It is a class that helps to deal with NullPointerException. We use them to do null-checkes.
 For example:
-```     
-        String[] str = new String[10];  
-        String lowercaseString = str[5].toLowerCase();  
-        System.out.print(lowercaseString);  
+```
+        String[] str = new String[10];
+        String lowercaseString = str[5].toLowerCase();
+        System.out.print(lowercaseString);
 ```
 will return NullPointerException. However, if we change it to
 ```
-        String[] str = new String[10];  
-        Optional<String> checkNull = Optional.ofNullable(str[5]);  
-        if(checkNull.isPresent()){  
-            String lowercaseString = str[5].toLowerCase();  
-            System.out.print(lowercaseString);  
-        }else  
-            System.out.println("string value is not present");  
-    }  
+        String[] str = new String[10];
+        Optional<String> checkNull = Optional.ofNullable(str[5]);
+        if(checkNull.isPresent()){
+            String lowercaseString = str[5].toLowerCase();
+            System.out.print(lowercaseString);
+        }else
+            System.out.println("string value is not present");
+    }
 ```
 We will be able to deal with null values and preventing the program from crushing.
 ## Why finally always be executed ?
@@ -142,41 +226,23 @@ I found these images helpful in understanding the principles
 We can use ___Lazy Initialization___, and syncronize the ```getInstance()``` functions
 eg:
 ```
-public class MyClass 
+public class MyClass
 {
 
   private static MyClass instance;
- 
-  private MyClass() 
+
+  private MyClass()
   {
     ...
   }
- 
-  synchronized public static MyClass getInstance() 
+
+  synchronized public static MyClass getInstance()
   {
-    if (instance == null) 
+    if (instance == null)
     {
       instance = new MyClass();
     }
     return instance;
   }
 }
-```
-## What do you understand by the Open-Closed Principle (OCP) ?
-This principle suggests that class should be open to extension, but closed to modification.\
-This means when I want to add new ability a the currently working class, I should create a new class that extends it rather than always adding more functionalities to it.
-## Liskov’s substitution principle states that if class B is a subtype of class A, then object of type A may be substituted with any object of type B. What does this actually mean? (from OA ) choose your answer.
 
--[x] It means that if the object of type A can do something, the object of type B could also be able tp perform the same thing
--[ ] It means that all the objects of type A could execute all the methods present in its subtype B
--[ ] It means if a method is present in class A, it should also be present in class B so that the object of type B could substitute object of type A.
--[ ] It means that for the class B to inherit class A, objects of type B and objects of type A must be same.
-## Watch the design pattern video, and type the code, submit it to MavenProject folder
-- singleton: https://www.bilibili.com/video/BV1Np4y1z7BU?p=22
-  - See /Coding/hw3/collections/src/main/java/com/chuwa/learn/MavenProject/Singleton
-- Factory: https://www.bilibili.com/video/BV1Np4y1z7BU?p=35&vd_source=310561eab1216a27f7accf859bf7f6d9
-  - See /Coding/hw3/collections/src/main/java/com/chuwa/learn/MavenProject/Factory
-- Builder: https://www.bilibili.com/video/BV1Np4y1z7BU?p=50&vd_source=310561eab1216a27f7accf859bf7f6d9
-  - See /Coding/hw3/collections/src/main/java/com/chuwa/learn/MavenProject/Builder
-- Publisher_Subscriber: https://www.bilibili.com/video/BV1Np4y1z7BU?p=114&vd_source=310561eab1216a27f7accf859bf7f6d9
-  - See /Coding/hw3/collections/src/main/java/com/chuwa/learn/MavenProject/
