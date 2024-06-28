@@ -11,13 +11,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hw4" />
         <module name="collections" />
+        <module name="hw5" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="collection" target="1.8" />
       <module name="ear" target="1.5" />
       <module name="ejbs" target="1.8" />
-      <module name="hw4" target="1.8" />
       <module name="java-core" target="22" />
       <module name="logging" target="1.8" />
       <module name="primary-source" target="1.8" />
