@@ -1,6 +1,8 @@
 
 # Chuwa Training
+https://github.com/CTYue/chuwa-eij-tutorial
 
+https://github.com/shalayiding/pullcheck
 
 
 ## How to record your assignments by using this repo:
